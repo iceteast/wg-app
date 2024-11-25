@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <namelist>
+        <person>晨旭</person>
+        <person>宗泽</person>
+        <person>王斌</person>
+        <person>王晔</person>
+    </namelist>
+    <dutylist>
+        <duty>
+            <name>小卫</name>
+            <ctx>镜子, 马桶, 地板, 洗手池及下水道</ctx>
+        </duty>
+        <duty>
+            <name>大卫</name>
+            <ctx>浴室墙壁, 地漏(全部), 镜子, 马桶, 地板, 洗手池及下水道</ctx>
+        </duty>
+        <duty>
+            <name>地板</name>
+            <ctx>餐桌, 客厅全部地面(包括垃圾桶及包装垃圾袋下面)</ctx>
+        </duty>
+        <duty>
+            <name>厨房</name>
+            <ctx>冰箱(表面及内部,上下拉手), 灶台表面, 所有柜子及烤箱的拉手及表面, 洗菜池及下水道</ctx>
+        </duty>
+    </dutylist>
+</data>
+
