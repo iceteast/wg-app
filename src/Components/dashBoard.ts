@@ -3,7 +3,7 @@ import {css, html, LitElement} from "lit";
 import { map } from 'lit/directives/map.js';
 import {range} from 'lit/directives/range.js';
 
-const XMLFILE = "src/data/data.xml";
+const XMLFILE = "/data.xml";
 const UNIVERSALDATE = new Date(2024, 9, 5); // Nov. 16, 2024
 
 @customElement('my-dash-board')
